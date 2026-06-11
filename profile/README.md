@@ -425,7 +425,7 @@
   <img src="https://img.shields.io/badge/Sponsor-neekmode-pink?style=for-the-badge&labelColor=0A0A0A&logo=githubsponsors&logoColor=white" alt=""/>
 </a>
 &nbsp;
-<a href="https://ko-fi.com/neekmode">
+<a href="https://ko-fi.com/iamsavageceo">
   <img src="https://img.shields.io/badge/Ko--fi-neekmode-FF5E5B?style=for-the-badge&labelColor=0A0A0A&logo=ko-fi&logoColor=white" alt=""/>
 </a>
 &nbsp;
@@ -447,17 +447,17 @@
     <tr>
       <td align="center"><img src="https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white&labelColor=0A0A0A" alt=""/></td>
       <td align="center"><sub>BTC</sub></td>
-      <td align="center"><code>YOUR_BTC_ADDRESS_HERE</code></td>
+      <td align="center"><code>bc1qnka4kye8chg9zv9ed7g4qz33hx4frr9a0xg4sc</code></td>
     </tr>
     <tr>
       <td align="center"><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white&labelColor=0A0A0A" alt=""/></td>
       <td align="center"><sub>ETH · USDC</sub></td>
-      <td align="center"><code>YOUR_ETH_ADDRESS_HERE</code></td>
+      <td align="center"><code>0x95294E73Cc634EEd88b7Af781A9AF177971aB23f</code></td>
     </tr>
     <tr>
       <td align="center"><img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white&labelColor=0A0A0A" alt=""/></td>
       <td align="center"><sub>SOL · USDC</sub></td>
-      <td align="center"><code>YOUR_SOL_ADDRESS_HERE</code></td>
+      <td align="center"><code>G3cvFdErhHdp5j8rGgGcGfkZAcNYWTtLKery2SzygQMD</code></td>
     </tr>
     <tr>
       <td align="center"><img src="https://img.shields.io/badge/Base-0052FF?style=flat-square&logo=base&logoColor=white&labelColor=0A0A0A" alt=""/></td>
