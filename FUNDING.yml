@@ -1,0 +1,19 @@
+# UNEEK-DEV · Sponsor links
+# Powers the "Sponsor" button on org repos.
+# Replace placeholder usernames/URLs with your live accounts.
+# Docs: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository
+
+github: neekmode
+
+# Fiat / platform — uncomment and set your username when ready
+# ko_fi: neekmode
+# buy_me_a_coffee: neekmode
+# patreon: neekmode
+
+custom:
+  - https://savage.ceo
+  - https://savagestud.io
+  - https://savage.ceo/donate
+  # - https://ko-fi.com/neekmode
+  # - https://buymeacoffee.com/neekmode
+  # - https://github.com/sponsors/neekmode

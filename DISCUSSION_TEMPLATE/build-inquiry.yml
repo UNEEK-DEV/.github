@@ -1,0 +1,64 @@
+title: Build Inquiry
+labels:
+  - build-inquiry
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Build inquiry for The Architect / UNEEK-DEV.**
+
+        Scope a brand, site, or system. No pitch decks — just what you need shipped.
+        For faster intake, book via [savage.ceo](https://savage.ceo).
+
+  - type: input
+    id: name
+    attributes:
+      label: Your name
+      placeholder: Who are you?
+    validations:
+      required: true
+
+  - type: input
+    id: org
+    attributes:
+      label: Company / artist / project name
+      placeholder: Who is this build for?
+    validations:
+      required: true
+
+  - type: dropdown
+    id: build-type
+    attributes:
+      label: Build type
+      options:
+        - Brand + identity
+        - Marketing site
+        - Site + booking / payments
+        - Dashboard / internal tool
+        - Full system (multi-surface)
+        - Not sure yet
+    validations:
+      required: true
+
+  - type: textarea
+    id: scope
+    attributes:
+      label: What needs to ship?
+      description: One paragraph. What exists today, what needs to exist, and any hard deadline.
+      placeholder: "We need X live by Y. Current state is Z."
+    validations:
+      required: true
+
+  - type: input
+    id: budget
+    attributes:
+      label: Budget range (optional)
+      placeholder: e.g. $5k–$15k, TBD, equity + cash
+
+  - type: input
+    id: contact
+    attributes:
+      label: Best contact
+      placeholder: email or phone
+    validations:
+      required: true

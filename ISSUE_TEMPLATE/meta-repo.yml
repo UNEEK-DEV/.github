@@ -1,0 +1,31 @@
+name: Meta repo change
+description: Change to org profile, templates, or .github config
+title: "[meta] "
+labels:
+  - meta
+body:
+  - type: markdown
+    attributes:
+      value: |
+        For changes to `profile/README.md`, discussion templates, or org-level config.
+        Client build bugs belong in the project repo — not here.
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Org profile README
+        - Discussion template
+        - Issue template
+        - CODEOWNERS / funding
+        - Other meta
+    validations:
+      required: true
+
+  - type: textarea
+    id: change
+    attributes:
+      label: What should change?
+    validations:
+      required: true

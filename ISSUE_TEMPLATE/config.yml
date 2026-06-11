@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Book a build
+    url: https://savage.ceo
+    about: Scope a brand, site, or system with The Architect.
+  - name: Open a discussion
+    url: https://github.com/UNEEK-DEV/.github/discussions/new/choose
+    about: Build inquiries and studio updates — use discussions, not issues.
+  - name: Savage Studio
+    url: https://savagestud.io
+    about: The studio brand + affiliate engine.

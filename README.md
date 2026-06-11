@@ -1,27 +1,37 @@
-# UNEEK-DEV · `.github`
+# UNEEK-DEV / .github
 
-Org-level assets and the **GitHub organization profile** for [UNEEK-DEV](https://github.com/UNEEK-DEV).
+Org-level GitHub configuration for **UNEEK-DEV** — profile README, discussion templates, and community defaults.
 
-## What shows on the org page
-
-The profile lives at **`profile/README.md`** — that's what renders on [github.com/UNEEK-DEV](https://github.com/UNEEK-DEV).
-
-**THE ARCHITECT** · **ONYX** · NEEKMODE / UNEEK-DEV · client build board.
-
-## Assets
+## What lives here
 
 | Path | Purpose |
-|--|--|
-| `assets/architect.webp` | Niko — The Architect |
-| `assets/onyx.webp` | Onyx — Bengal · studio enforcer |
-| `assets/the-architect.svg` | Gold header banner |
-| `assets/fonts/MBF-Royal.otf` | Profile typography |
-| `assets/fonts/MBF-Royal.ttf` | Profile typography (fallback) |
+|:--|:--|
+| `profile/README.md` | Public org profile shown on [github.com/UNEEK-DEV](https://github.com/UNEEK-DEV) |
+| `DISCUSSION_TEMPLATE/` | Starter templates for org discussions |
+| `ISSUE_TEMPLATE/` | Structured issue intake |
+| `FUNDING.yml` | Sponsor button links (GitHub · Ko-fi · custom) |
+| `DONATE.md` | Crypto wallets + fiat setup guide (replace placeholders) |
+| `CODEOWNERS` | Default reviewers for meta-repo changes |
 
-## Edit the profile
+## Core GitHub accounts
 
-1. Change `profile/README.md`
-2. Commit + push to `main`
-3. Org page updates in ~1 min
+- **[neekmode](https://github.com/neekmode)** — The Architect · builder identity
+- **[THE-SAVAGE-STUDIO](https://github.com/THE-SAVAGE-STUDIO)** — core studio repos · OS · templates
+- **[UNEEK-DEV](https://github.com/UNEEK-DEV)** — client delivery · private builds
 
-Built by **[NEEKMODE](https://github.com/UNEEK-DEV)** / **[UNEEK-DEV](https://github.com/UNEEK-DEV)**.
+## Surfaces
+
+- [savage.ceo](https://savage.ceo) — The Architect's desk
+- [savagestud.io](https://savagestud.io) — Savage Studio
+
+## Discussions
+
+Discussions are open on this repo. Use them for build inquiries, studio updates, and client coordination — not for code bugs in individual project repos.
+
+→ [Open a discussion](https://github.com/UNEEK-DEV/.github/discussions/new/choose)
+
+## Donate
+
+Support links live in `FUNDING.yml` (repo Sponsor button) and `DONATE.md` (full wallet list).
+
+→ [Donate setup guide](./DONATE.md)

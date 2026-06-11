@@ -1,0 +1,36 @@
+title: Studio Update
+labels:
+  - studio
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Share a studio update — shipped work, sprint notes, or ecosystem changes.
+        Keep it tight. Links + receipts.
+
+  - type: input
+    id: title
+    attributes:
+      label: Update headline
+      placeholder: e.g. Deep Productions booking flow shipped
+    validations:
+      required: true
+
+  - type: textarea
+    id: body
+    attributes:
+      label: What shipped / changed?
+      placeholder: Bullet the wins. Link live URLs and repos.
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: surfaces
+    attributes:
+      label: Surfaces touched
+      options:
+        - label: savage.ceo
+        - label: savagestud.io
+        - label: UNEEK-DEV repo
+        - label: THE-SAVAGE-STUDIO repo
+        - label: Client production URL
