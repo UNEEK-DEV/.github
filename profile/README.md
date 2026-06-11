@@ -4,11 +4,6 @@
 <div align="center">
 
 <!-- ═══ HEADER ═══ -->
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0A0A0A,1a1611,2a2010,C9A962&height=130&section=header&text=&animation=fadeIn"
-  width="100%"
-  alt=""
-/>
 
 <br/>
 
@@ -33,34 +28,9 @@
 <br/>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=3000&pause=1200&color=C9A962&center=true&vCenter=true&multiline=true&width=700&height=56&lines=PREMIUM+BRANDS+%C2%B7+SITES+%C2%B7+SYSTEMS;BUILD+%C2%B7+SHIP+%C2%B7+COLLECT+%C2%B7+REPEAT;if+it+doesn%27t+ship%2C+it+didn%27t+happen."
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=3000&pause=1200&color=C9A962&center=true&vCenter=true&multiline=true&width=700&height=56&lines=PREMIUM+BRANDS+%C2%B7+SITES+%C2%B7+SYSTEMS;BUILD+%C2%B7+SHIP+%C2%B7+COLLECT+%C2%B7+REPEAT"
   alt=""
 />
-
-<br/><br/>
-
-<!-- ═══ GITHUB CORE — the three that matter ═══ -->
-<a href="https://github.com/neekmode">
-  <img src="https://img.shields.io/badge/GitHub-neekmode-C9A962?style=for-the-badge&labelColor=0A0A0A&logo=github&logoColor=C9A962" alt="neekmode"/>
-</a>
-&nbsp;
-<a href="https://github.com/THE-SAVAGE-STUDIO">
-  <img src="https://img.shields.io/badge/Org-THE--SAVAGE--STUDIO-C9A962?style=for-the-badge&labelColor=1a1611&logo=github&logoColor=F5F5F5" alt="THE-SAVAGE-STUDIO"/>
-</a>
-&nbsp;
-<a href="https://github.com/UNEEK-DEV">
-  <img src="https://img.shields.io/badge/Org-UNEEK--DEV-d4af37?style=for-the-badge&labelColor=0A0A0A&logo=github&logoColor=d4af37" alt="UNEEK-DEV"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/UNEEK-DEV/.github/discussions">
-  <img src="https://img.shields.io/badge/Discussions-Open-2d6a4f?style=for-the-badge&labelColor=0A0A0A&logo=github&logoColor=white" alt="Discussions"/>
-</a>
-&nbsp;
-<a href="https://savage.ceo">
-  <img src="https://img.shields.io/badge/Book-a_Build-savage.ceo-C9A962?style=for-the-badge&labelColor=1a1611&logo=vercel&logoColor=C9A962" alt="Book a build"/>
-</a>
 
 <br/><br/>
 
@@ -137,7 +107,74 @@
 ---
 
 <br/>
+<br/>
 
+<!-- ═══ SUPPORT ═══ -->
+<h3>SUPPORT</h3>
+
+<sub>voluntary support · fuels the studio · Onyx-approved</sub>
+
+<br/><br/>
+
+<a href="https://savage.ceo/donate">
+  <img src="https://img.shields.io/badge/Donate-savage.ceo-C9A962?style=for-the-badge&labelColor=0A0A0A&logo=vercel&logoColor=C9A962" alt=""/>
+</a>
+&nbsp;
+<a href="https://github.com/sponsors/neekmode">
+  <img src="https://img.shields.io/badge/Sponsor-neekmode-pink?style=for-the-badge&labelColor=0A0A0A&logo=githubsponsors&logoColor=white" alt=""/>
+</a>
+&nbsp;
+<a href="https://ko-fi.com/iamsavageceo">
+  <img src="https://img.shields.io/badge/Ko--fi-neekmode-FF5E5B?style=for-the-badge&labelColor=0A0A0A&logo=ko-fi&logoColor=white" alt=""/>
+</a>
+&nbsp;
+<a href="https://buymeacoffee.com/neekmode">
+  <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-neekmode-FFDD00?style=for-the-badge&labelColor=0A0A0A&logo=buy-me-a-coffee&logoColor=000" alt=""/>
+</a>
+
+<br/><br/>
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="center">CHAIN</th>
+      <th align="center">ASSET</th>
+      <th align="center">WALLET</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white&labelColor=0A0A0A" alt=""/></td>
+      <td align="center"><sub>BTC</sub></td>
+      <td align="center"><code>bc1qnka4kye8chg9zv9ed7g4qz33hx4frr9a0xg4sc</code></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white&labelColor=0A0A0A" alt=""/></td>
+      <td align="center"><sub>ETH · USDC</sub></td>
+      <td align="center"><code>0x95294E73Cc634EEd88b7Af781A9AF177971aB23f</code></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white&labelColor=0A0A0A" alt=""/></td>
+      <td align="center"><sub>SOL · USDC</sub></td>
+      <td align="center"><code>G3cvFdErhHdp5j8rGgGcGfkZAcNYWTtLKery2SzygQMD</code></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/Base-0052FF?style=flat-square&logo=base&logoColor=white&labelColor=0A0A0A" alt=""/></td>
+      <td align="center"><sub>USDC</sub></td>
+      <td align="center"><code>0x95294E73Cc634EEd88b7Af781A9AF177971aB23f</code></td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+
+<sub>full setup guide → <a href="https://github.com/UNEEK-DEV/.github/blob/main/DONATE.md">DONATE.md</a></sub>
+
+<br/><br/>
+
+---
+
+<br/>
 <!-- ═══ SURFACES ═══ -->
 <h3>SURFACES</h3>
 
@@ -408,74 +445,6 @@
 
 ---
 
-<br/>
-
-<!-- ═══ SUPPORT ═══ -->
-<h3>SUPPORT</h3>
-
-<sub>voluntary support · fuels the studio · Onyx-approved</sub>
-
-<br/><br/>
-
-<a href="https://savage.ceo/donate">
-  <img src="https://img.shields.io/badge/Donate-savage.ceo-C9A962?style=for-the-badge&labelColor=0A0A0A&logo=vercel&logoColor=C9A962" alt=""/>
-</a>
-&nbsp;
-<a href="https://github.com/sponsors/neekmode">
-  <img src="https://img.shields.io/badge/Sponsor-neekmode-pink?style=for-the-badge&labelColor=0A0A0A&logo=githubsponsors&logoColor=white" alt=""/>
-</a>
-&nbsp;
-<a href="https://ko-fi.com/iamsavageceo">
-  <img src="https://img.shields.io/badge/Ko--fi-neekmode-FF5E5B?style=for-the-badge&labelColor=0A0A0A&logo=ko-fi&logoColor=white" alt=""/>
-</a>
-&nbsp;
-<a href="https://buymeacoffee.com/neekmode">
-  <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-neekmode-FFDD00?style=for-the-badge&labelColor=0A0A0A&logo=buy-me-a-coffee&logoColor=000" alt=""/>
-</a>
-
-<br/><br/>
-
-<table width="100%">
-  <thead>
-    <tr>
-      <th align="center">CHAIN</th>
-      <th align="center">ASSET</th>
-      <th align="center">WALLET</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white&labelColor=0A0A0A" alt=""/></td>
-      <td align="center"><sub>BTC</sub></td>
-      <td align="center"><code>bc1qnka4kye8chg9zv9ed7g4qz33hx4frr9a0xg4sc</code></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white&labelColor=0A0A0A" alt=""/></td>
-      <td align="center"><sub>ETH · USDC</sub></td>
-      <td align="center"><code>0x95294E73Cc634EEd88b7Af781A9AF177971aB23f</code></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white&labelColor=0A0A0A" alt=""/></td>
-      <td align="center"><sub>SOL · USDC</sub></td>
-      <td align="center"><code>G3cvFdErhHdp5j8rGgGcGfkZAcNYWTtLKery2SzygQMD</code></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/Base-0052FF?style=flat-square&logo=base&logoColor=white&labelColor=0A0A0A" alt=""/></td>
-      <td align="center"><sub>USDC</sub></td>
-      <td align="center"><code>YOUR_BASE_USDC_ADDRESS_HERE</code></td>
-    </tr>
-  </tbody>
-</table>
-
-<br/>
-
-<sub>full setup guide → <a href="https://github.com/UNEEK-DEV/.github/blob/main/DONATE.md">DONATE.md</a></sub>
-
-<br/><br/>
-
----
-
-<br/>
 
 <!-- ═══ FOOTER ═══ -->
 <a href="https://savage.ceo"><img src="https://img.shields.io/badge/savage.ceo-Desk-C9A962?style=flat-square&labelColor=0A0A0A" alt=""/></a>
