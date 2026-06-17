@@ -1,0 +1,18 @@
+{
+  "_comment": "SOURCE OF TRUTH for the org portfolio. Add a property = add one object to items[], then run: node scripts/build-profile.mjs (or just push — the Action rebuilds). Fields: name, domain, url, tag (short category), status (live|building|soon), repo (owner/name or null).",
+  "statuses": {
+    "live":     { "dot": "🟢", "label": "Live" },
+    "building": { "dot": "🟡", "label": "Building" },
+    "soon":     { "dot": "🔵", "label": "Soon" }
+  },
+  "items": [
+    { "name": "Deep Productions",  "domain": "deep.productions",          "url": "https://deep.productions",          "tag": "Studio",    "status": "live",     "repo": null },
+    { "name": "Savage Studio",     "domain": "savagestud.io",             "url": "https://savagestud.io",             "tag": "Studio",    "status": "live",     "repo": null },
+    { "name": "The Bengal",        "domain": "thebengal.zone",            "url": "https://thebengal.zone",            "tag": "Onyx HQ",   "status": "live",     "repo": null },
+    { "name": "Druids",            "domain": "druids.vip",                "url": "https://druids.vip",                "tag": "Members",   "status": "live",     "repo": null },
+    { "name": "Frequency Files",   "domain": "frequencyfiles.com",        "url": "https://frequencyfiles.com",        "tag": "Audio app", "status": "building", "repo": "Frequency-Files/FREQUENCY-FILES" },
+    { "name": "Lukas Rossi",       "domain": "lukasrossionline.com",      "url": "https://lukasrossionline.com",      "tag": "Artist",    "status": "live",     "repo": "UNEEK-DEV/lukasrossionline" },
+    { "name": "Sober Lyfe",        "domain": "sl-treatment.vercel.app",   "url": "https://sl-treatment.vercel.app",   "tag": "Treatment", "status": "building", "repo": "UNEEK-DEV/sl-treatment.com" },
+    { "name": "Toby Wright Music", "domain": "tobywrightmusic.vercel.app","url": "https://tobywrightmusic.vercel.app","tag": "Artist",    "status": "building", "repo": null }
+  ]
+}

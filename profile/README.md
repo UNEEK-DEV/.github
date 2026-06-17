@@ -1,12 +1,83 @@
+<<<<<<< HEAD
 <!-- UNEEK-DEV · .github · Org Profile README -->
 <!-- https://shields.io/badges -->
+||||||| parent of c6ec51f (feat: overhaul org profile structure and assets for UNEEK-DEV)
+=======
+<!--
+  ┌─────────────────────────────────────────────────────────────────────┐
+  │  GENERATED FILE — do not edit profile/README.md by hand.            │
+  │  Edit  data/profile.json · data/properties.json · this template,    │
+  │  then run:   node scripts/build-profile.mjs                         │
+  │  (the GitHub Action rebuilds it automatically on push to main).     │
+  └─────────────────────────────────────────────────────────────────────┘
+-->
+>>>>>>> c6ec51f (feat: overhaul org profile structure and assets for UNEEK-DEV)
 
 <div align="center">
 
+<<<<<<< HEAD
 <!-- ═══ HEADER ═══ -->
+||||||| parent of c6ec51f (feat: overhaul org profile structure and assets for UNEEK-DEV)
+<!-- THE ARCHITECT — org profile for UNEEK-DEV -->
+=======
+<img src="../assets/the-architect.svg" width="640" alt="THE ARCHITECT — BUILD · SHIP · COLLECT · REPEAT" />
+>>>>>>> c6ec51f (feat: overhaul org profile structure and assets for UNEEK-DEV)
 
+<<<<<<< HEAD
 <br/>
+||||||| parent of c6ec51f (feat: overhaul org profile structure and assets for UNEEK-DEV)
+<style>
+  @font-face {
+    font-family: 'MBFRoyal';
+    src: url('https://raw.githubusercontent.com/UNEEK-DEV/.github/main/assets/fonts/MBF-Royal.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  .architect {
+    font-family: 'MBFRoyal', Georgia, 'Times New Roman', serif;
+    font-size: clamp(48px, 8vw, 88px);
+    letter-spacing: 0.18em;
+    background: linear-gradient(135deg, #5c4a1f 0%, #d4af37 35%, #f8e8b8 50%, #d4af37 65%, #5c4a1f 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin: 0;
+    padding: 0;
+    line-height: 1.1;
+  }
+  .subtitle {
+    font-family: ui-monospace, 'SF Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.35em;
+    color: #666;
+    text-transform: uppercase;
+    margin-top: 8px;
+  }
+  .onyx-tag {
+    font-family: ui-monospace, monospace;
+    font-size: 10px;
+    letter-spacing: 0.25em;
+    color: #d4af37;
+    text-transform: uppercase;
+  }
+  .card {
+    background: linear-gradient(180deg, #111 0%, #0a0a0a 100%);
+    border: 1px solid #2a2418;
+    border-radius: 4px;
+    padding: 12px;
+  }
+  .gold-rule {
+    height: 1px;
+    background: linear-gradient(90deg, transparent, #d4af37, transparent);
+    border: none;
+    margin: 24px 0;
+  }
+</style>
+=======
+<em>A one-founder studio — agents carry the work, the work funds the machine.</em>
+>>>>>>> c6ec51f (feat: overhaul org profile structure and assets for UNEEK-DEV)
 
+<<<<<<< HEAD
 <!-- ═══ PRIMARY LINKS ═══ -->
 <a href="https://savage.ceo">
   <img src="https://img.shields.io/badge/SAVAGE.CEO-The_Architect%27s_Desk-C9A962?style=for-the-badge&labelColor=0A0A0A&logo=vercel&logoColor=C9A962" alt="savage.ceo"/>
@@ -24,6 +95,16 @@
   <source media="(prefers-color-scheme: light)" srcset="../assets/the-architect-light.svg">
   <img src="../assets/the-architect.svg" alt="THE ARCHITECT" width="90%" />
 </picture>
+||||||| parent of c6ec51f (feat: overhaul org profile structure and assets for UNEEK-DEV)
+<img src="../assets/the-architect.svg" alt="THE ARCHITECT" width="100%" />
+
+<h1 class="architect">THE ARCHITECT</h1>
+<p class="subtitle">Build · Ship · Collect · Repeat</p>
+
+<hr class="gold-rule" />
+=======
+<img src="../assets/rule.svg" width="520" alt="" />
+>>>>>>> c6ec51f (feat: overhaul org profile structure and assets for UNEEK-DEV)
 
 <br/>
 
@@ -49,6 +130,7 @@
 
 <table width="100%">
   <tr>
+<<<<<<< HEAD
     <td align="center">
       <sub><strong>FRONTEND</strong></sub>
       <br/><br/>
@@ -59,7 +141,22 @@
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=0A0A0A" alt=""/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=0A0A0A" alt=""/>
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white&labelColor=0A0A0A" alt=""/>
+||||||| parent of c6ec51f (feat: overhaul org profile structure and assets for UNEEK-DEV)
+    <td width="50%" align="center" valign="top">
+      <div class="card">
+        <img src="../assets/architect.webp" alt="Niko — The Architect" width="100%" style="border-radius:2px; display:block;" />
+        <br/>
+        <strong style="color:#f8e8b8; letter-spacing:0.2em; font-size:12px;">NIKO</strong><br/>
+        <span style="color:#888; font-size:11px;">Producer · Engineer · The one who ships</span>
+      </div>
+=======
+    <td align="center" width="430" valign="top">
+      <img src="../assets/name-architect.svg" height="34" alt="ARCHITECT" /><br/>
+      <img src="../assets/architect.webp" height="392" alt="Niko — The Architect" /><br/>
+      <sub>PRODUCER · ENGINEER · THE ONE WHO SHIPS</sub>
+>>>>>>> c6ec51f (feat: overhaul org profile structure and assets for UNEEK-DEV)
     </td>
+<<<<<<< HEAD
   </tr>
   <tr><td align="center"><br/></td></tr>
   <tr>
@@ -98,14 +195,45 @@
       <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white&labelColor=0A0A0A" alt=""/>
       <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=000&labelColor=0A0A0A" alt=""/>
       <img src="https://img.shields.io/badge/shadcn%2Fui-000?style=flat-square&labelColor=0A0A0A&color=C9A962" alt=""/>
+||||||| parent of c6ec51f (feat: overhaul org profile structure and assets for UNEEK-DEV)
+    <td width="50%" align="center" valign="top">
+      <div class="card">
+        <img src="../assets/onyx.webp" alt="Onyx — Bengal" width="100%" style="border-radius:2px; display:block;" />
+        <br/>
+        <strong style="color:#f8e8b8; letter-spacing:0.2em; font-size:12px;">ONYX</strong><br/>
+        <span class="onyx-tag">Chief Quality Bengal · Studio Enforcer</span>
+      </div>
+=======
+    <td align="center" width="430" valign="top">
+      <img src="../assets/name-onyx.svg" height="34" alt="ONYX" /><br/>
+      <img src="../assets/onyx.webp" height="392" alt="Onyx — the Bengal" /><br/>
+      <sub>CHIEF QUALITY BENGAL · STUDIO ENFORCER</sub>
+>>>>>>> c6ec51f (feat: overhaul org profile structure and assets for UNEEK-DEV)
     </td>
   </tr>
 </table>
 
+<<<<<<< HEAD
 <br/>
+||||||| parent of c6ec51f (feat: overhaul org profile structure and assets for UNEEK-DEV)
+<hr class="gold-rule" />
+=======
+<img src="../assets/rule.svg" width="520" alt="" />
+>>>>>>> c6ec51f (feat: overhaul org profile structure and assets for UNEEK-DEV)
 
+<<<<<<< HEAD
 ---
+||||||| parent of c6ec51f (feat: overhaul org profile structure and assets for UNEEK-DEV)
+<p align="center">
+  <a href="https://github.com/UNEEK-DEV">
+    <img src="https://img.shields.io/badge/BUILT_BY-NEEKMODE_/_UNEEK--DEV-0a0a0a?style=for-the-badge&labelColor=1a1a1a&color=d4af37" alt="Built by NEEKMODE / UNEEK-DEV"/>
+  </a>
+</p>
+=======
+### The roster
+>>>>>>> c6ec51f (feat: overhaul org profile structure and assets for UNEEK-DEV)
 
+<<<<<<< HEAD
 <br/>
 <br/>
 
@@ -165,9 +293,30 @@
     </tr>
   </tbody>
 </table>
+||||||| parent of c6ec51f (feat: overhaul org profile structure and assets for UNEEK-DEV)
+<p align="center">
+  <a href="https://github.com/UNEEK-DEV"><img src="https://img.shields.io/badge/ORG-UNEEK--DEV-111?style=flat-square&logo=github&logoColor=d4af37&color=0a0a0a" alt="UNEEK-DEV"/></a>
+  <img src="https://img.shields.io/badge/STATUS-SHIPPING-0a0a0a?style=flat-square&color=d4af37" alt="Shipping"/>
+  <img src="https://img.shields.io/badge/STACK-Next.js_·_Flutter_·_Vercel-0a0a0a?style=flat-square&color=888" alt="Stack"/>
+</p>
+=======
+| Property | Type | Live at | Status | Source |
+|:--|:--|:--|:--:|:--:|
+| **Deep Productions** | Studio | [deep.productions ↗](https://deep.productions) | 🟢 Live | — |
+| **Savage Studio** | Studio | [savagestud.io ↗](https://savagestud.io) | 🟢 Live | — |
+| **The Bengal** | Onyx HQ | [thebengal.zone ↗](https://thebengal.zone) | 🟢 Live | — |
+| **Druids** | Members | [druids.vip ↗](https://druids.vip) | 🟢 Live | — |
+| **Frequency Files** | Audio app | [frequencyfiles.com ↗](https://frequencyfiles.com) | 🟡 Building | [↗](https://github.com/Frequency-Files/FREQUENCY-FILES) |
+| **Lukas Rossi** | Artist | [lukasrossionline.com ↗](https://lukasrossionline.com) | 🟢 Live | [↗](https://github.com/UNEEK-DEV/lukasrossionline) |
+| **Sober Lyfe** | Treatment | [sl-treatment.vercel.app ↗](https://sl-treatment.vercel.app) | 🟡 Building | [↗](https://github.com/UNEEK-DEV/sl-treatment.com) |
+| **Toby Wright Music** | Artist | [tobywrightmusic.vercel.app ↗](https://tobywrightmusic.vercel.app) | 🟡 Building | — |
+
+<sub>🟢 Live&nbsp;&nbsp;·&nbsp;&nbsp;🟡 Building&nbsp;&nbsp;·&nbsp;&nbsp;🔵 Soon&nbsp;&nbsp;—&nbsp;&nbsp;names link to the live site, ↗ opens public source.</sub>
+>>>>>>> c6ec51f (feat: overhaul org profile structure and assets for UNEEK-DEV)
 
 <br/>
 
+<<<<<<< HEAD
 <sub>full setup guide → <a href="https://github.com/UNEEK-DEV/.github/blob/main/DONATE.md">DONATE.md</a></sub>
 
 <br/><br/>
@@ -200,9 +349,25 @@
     </td>
   </tr>
 </table>
+||||||| parent of c6ec51f (feat: overhaul org profile structure and assets for UNEEK-DEV)
+```text
+  ╔══════════════════════════════════════════════════════════════╗
+  ║  CLIENT BUILDS ONLY · NO SIDE PROJECTS IN THE HUB           ║
+  ║  MAIN IS SACRED · THREE TREES MAX · MERGE OR DIE            ║
+  ╚══════════════════════════════════════════════════════════════╝
+```
+=======
+```text
+╔══════════════════════════════════════════════════════╗
+║   CLIENT BUILDS ONLY · NO SIDE PROJECTS IN THE HUB   ║
+║   MAIN IS SACRED · THREE TREES MAX · MERGE OR DIE    ║
+╚══════════════════════════════════════════════════════╝
+```
+>>>>>>> c6ec51f (feat: overhaul org profile structure and assets for UNEEK-DEV)
 
 <br/>
 
+<<<<<<< HEAD
 ---
 
 <br/>
@@ -476,5 +641,35 @@
   width="100%"
   alt=""
 />
+||||||| parent of c6ec51f (feat: overhaul org profile structure and assets for UNEEK-DEV)
+### Active org · client delivery
+
+| Build | Repo | Status |
+|:--|:--|:--:|
+| **Frequency Files** | [Frequency-Files/FREQUENCY-FILES](https://github.com/Frequency-Files/FREQUENCY-FILES) | 🟡 Sprint |
+| **Worshippers of Truth** | [UNEEK-DEV/kingdom-of-truth](https://github.com/UNEEK-DEV/kingdom-of-truth) | 🟢 Live |
+| **Sober Lyfe** | [UNEEK-DEV/sl-treatment.com](https://github.com/UNEEK-DEV/sl-treatment.com) | 🟡 Redesign |
+| **Lukas Rossi** | [UNEEK-DEV/lukasrossionline](https://github.com/UNEEK-DEV/lukasrossionline) | 🟢 Delivered |
+
+<br/>
+
+<p align="center">
+  <em style="color:#555; font-size:12px; letter-spacing:0.15em;">
+    PRIVATE ORG · CLIENT WORK · THE ARCHITECT BUILDS HERE
+  </em>
+</p>
+
+<p align="center">
+  <strong style="color:#d4af37; letter-spacing:0.3em; font-size:10px;">NEEKMODE</strong>
+  <span style="color:#333;"> / </span>
+  <a href="https://github.com/UNEEK-DEV" style="color:#888; text-decoration:none; letter-spacing:0.2em; font-size:10px;">UNEEK-DEV</a>
+</p>
+=======
+<sub>PRIVATE STUDIO · CLIENT WORK · THE ARCHITECT BUILDS HERE</sub>
+
+<p>
+  <a href="https://github.com/UNEEK-DEV"><img src="https://img.shields.io/badge/NEEKMODE-UNEEK--DEV-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=d4af37" alt="NEEKMODE / UNEEK-DEV" /></a>
+</p>
+>>>>>>> c6ec51f (feat: overhaul org profile structure and assets for UNEEK-DEV)
 
 </div>

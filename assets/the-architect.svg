@@ -1,21 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 140" role="img" aria-label="THE ARCHITECT">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 210" role="img" aria-label="THE ARCHITECT â€” build, ship, collect, repeat">
   <defs>
-    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#5c4a1f"/>
-      <stop offset="25%" stop-color="#d4af37"/>
-      <stop offset="50%" stop-color="#f8e8b8"/>
-      <stop offset="75%" stop-color="#d4af37"/>
-      <stop offset="100%" stop-color="#5c4a1f"/>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f6e7ad"/>
+      <stop offset="0.46" stop-color="#d8b446"/>
+      <stop offset="0.56" stop-color="#caa032"/>
+      <stop offset="1" stop-color="#7c6020"/>
     </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="2" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#d4af37" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#d4af37" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#d4af37" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-6%" y="-40%" width="112%" height="180%">
+      <feDropShadow dx="0" dy="0" stdDeviation="1.5" flood-color="#d4af37" flood-opacity="0.28"/>
     </filter>
   </defs>
-  <rect width="960" height="140" fill="#0a0a0a"/>
-  <text x="480" y="88" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="72" font-weight="700" fill="url(#gold)" letter-spacing="12" filter="url(#glow)">THE ARCHITECT</text>
-  <text x="480" y="118" text-anchor="middle" font-family="ui-monospace, monospace" font-size="11" fill="#666" letter-spacing="6">NEEKMODE · UNEEK-DEV</text>
+  <text x="620" y="120" text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', Times, serif" font-size="96" font-weight="700"
+        letter-spacing="7" fill="url(#gold)" stroke="#1c1505" stroke-width="0.9"
+        paint-order="stroke" filter="url(#glow)">THE ARCHITECT</text>
+  <rect x="492" y="150" width="256" height="1.6" fill="url(#rule)"/>
+  <path d="M620 146 L627 151 L620 156 L613 151 Z" fill="#d4af37"/>
+  <text x="620" y="190" text-anchor="middle"
+        font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="16" letter-spacing="11"
+        fill="#9a8550">BUILD &#183; SHIP &#183; COLLECT &#183; REPEAT</text>
 </svg>

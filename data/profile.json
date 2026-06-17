@@ -1,0 +1,28 @@
+{
+  "org": "UNEEK-DEV",
+  "brand": "THE ARCHITECT",
+  "tagline": "BUILD · SHIP · COLLECT · REPEAT",
+  "blurb": "A one-founder studio — agents carry the work, the work funds the machine.",
+  "duo": [
+    {
+      "name": "ARCHITECT",
+      "nameSvg": "name-architect.svg",
+      "img": "architect.webp",
+      "alt": "Niko — The Architect",
+      "caption": "PRODUCER · ENGINEER · THE ONE WHO SHIPS"
+    },
+    {
+      "name": "ONYX",
+      "nameSvg": "name-onyx.svg",
+      "img": "onyx.webp",
+      "alt": "Onyx — the Bengal",
+      "caption": "CHIEF QUALITY BENGAL · STUDIO ENFORCER"
+    }
+  ],
+  "law": [
+    "CLIENT BUILDS ONLY · NO SIDE PROJECTS IN THE HUB",
+    "MAIN IS SACRED · THREE TREES MAX · MERGE OR DIE"
+  ],
+  "footer": "PRIVATE STUDIO · CLIENT WORK · THE ARCHITECT BUILDS HERE",
+  "signature": "NEEKMODE"
+}

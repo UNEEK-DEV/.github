@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 96" role="img" aria-label="ONYX">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f6e7ad"/>
+      <stop offset="0.5" stop-color="#d4af37"/>
+      <stop offset="1" stop-color="#7c6020"/>
+    </linearGradient>
+  </defs>
+  <text x="220" y="62" text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', Times, serif" font-size="54" font-weight="700"
+        letter-spacing="20" fill="url(#gold)" stroke="#1c1505" stroke-width="0.6"
+        paint-order="stroke">ONYX</text>
+</svg>
